@@ -178,6 +178,7 @@
 
 .ubicacion li iframe:hover{
     width: 100%;
+    transition: .5s;
 }
 
 .formulario{
